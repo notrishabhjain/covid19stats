@@ -78,6 +78,7 @@ nav .branding i {
 nav .branding span {
   color: #f34949;
 }
+
 .selectnav {
   display: inline-block;
   appearance: none;
@@ -91,7 +92,6 @@ nav .branding span {
   cursor: pointer;
   display: none;
 }
-
 
 @media screen and (max-width: 989px) {
   .js #nav {
@@ -481,5 +481,3 @@ footer a {
     max-width: 1100px;
   }
 }
-
-/*# sourceMappingURL=styles.css.map */
